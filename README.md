@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome&fontSize=70)
+<div align="center">
+
+
 
 <p align="center">
 - Backend Developer
@@ -16,6 +19,6 @@
 
 <br>
 
-<p align="center">
+
 ![NNIIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNIIE&show_icons=true&theme=tokyonight)
-</p>
+</div>
