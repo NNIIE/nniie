@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=60" />
 
 
 <div><h1 align="center">📚 tech stack</h1></div>
