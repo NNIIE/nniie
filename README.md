@@ -14,7 +14,5 @@
 
 <br>
 
-
-<div><h1>📚 tech stack</h1></div>
 ![NNIIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNIIE&show_icons=true&theme=tokyonight)
 
