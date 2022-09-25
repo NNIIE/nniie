@@ -4,7 +4,9 @@
 <h2>😃 Me</h2>
 
 Hi there 👋
+<br>
 I'm a Backend Developer
+<br>
 I am working in Seoul, South Korea
 
 </div>
