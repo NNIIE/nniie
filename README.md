@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YongSeok%20Github&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YongSeok%20Lee%20Github&fontSize=60" />
 
 
 <a href="https://velog.io/@kakdark"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"> <a href="mailto:greg0917@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white">
