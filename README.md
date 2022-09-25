@@ -14,6 +14,7 @@
 
 <div></div>
 ![nniie github stats](https://github-readme-stats.vercel.app/api?username=NNIIE&show_icons=true&theme=tokyonight)
+![NNIIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNIIE&show_icons=true&theme=tokyonight)
 <br>
 https://github-readme-stats.vercel.app/api?username=nniie&&show_icons=true&theme=dark
 <br>
