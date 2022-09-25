@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome&fontSize=70)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Backend Developer
+- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Velog&logoColor=white">
 - 👯 I’m looking to collaborate on ...
 <br>
 
