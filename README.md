@@ -1,9 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=nniie Github&fontSize=90" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 <br>
-
 
 
 <div aligh="center"><h1>📚 tech stack</h1></div>
