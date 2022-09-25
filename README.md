@@ -2,7 +2,7 @@
 
 - 🔭 Backend Developer
 - <a href="https://velog.io/@kakdark"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
-- 👯 I’m looking to collaborate on ...
+- <a href="https://velog.io/@kakdark"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=Velog&logoColor=white">
 <br>
 
 
