@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome&fontSize=70)
 
-- 🔭 <h2>Backend Developer</h2>
+- Backend Developer
 - <a href="https://velog.io/@kakdark"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 - <a href="mailto:greg0917@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
 <br>
 
 
-<div aligh="center"><h1>📚 tech stack</h1></div>
+<div><h1 aligh="center">📚 tech stack</h1></div>
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   
