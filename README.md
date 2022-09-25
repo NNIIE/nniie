@@ -1,18 +1,19 @@
 <div align="center">
 
 <div align=center>
-<h2>😃 Me</h2>
+😃 Me
+<br>
 
 Hi there 👋
 <br>
-I'm a Backend Developer
+I am a Backend Developer
 <br>
 I am working in Seoul, South Korea
 
 </div>
 
-
-<div align=center><h2>💻 TECH STACK</h2></div>
+💻 TECH STACK
+<br>
 
 <p align="center"><img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=java&logoColor=white"/>  &nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"></p>
   
