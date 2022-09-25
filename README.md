@@ -14,5 +14,8 @@
 
 <div></div>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NNIIE&show_icons=true&theme=tokyonight)
+<br>
 https://github-readme-stats.vercel.app/api?username=nniie&&show_icons=true&theme=dark
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nniie&layout=compact&theme=tokyonight)
 </div>
