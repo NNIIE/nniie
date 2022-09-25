@@ -9,6 +9,7 @@ Hi there 👋
 I am a Backend Developer
 <br>
 I am working in Seoul, South Korea
+I study hard to become a good developer
 <div align=center><h1></h1></div>    
 </div>
 
