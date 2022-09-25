@@ -1,9 +1,12 @@
 <div align="center">
 
-<div align=center><h2>😃 Me</h2></div>
+<div align=center>
+<h2>😃 Me</h2>
 
 Hi there 👋
 i'm a Backend Developer
+
+</div>
 
 
 <div align=center><h2>💻 TECH STACK</h2></div>
