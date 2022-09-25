@@ -10,8 +10,7 @@ I am a Backend Developer
 <br>
 I am working in Seoul, South Korea
 
-<div align=center><h1></h1></div>  
-  
+<div align=center><h1></h1></div>    
 </div>
 
 💻 TECH STACK
@@ -24,7 +23,5 @@ I am working in Seoul, South Korea
 <br>
 
 <div align=center><h2></h2></div>
-
-
 ![NNIIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNIIE&show_icons=true&theme=dark)
 </div>
