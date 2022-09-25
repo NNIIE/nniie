@@ -3,7 +3,8 @@
 <p align="center">
 - Backend Developer
 - <a href="https://velog.io/@kakdark"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
-- <a href="mailto:greg0917@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></p>
+- <a href="mailto:greg0917@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+</p>
 <br>
 
 
