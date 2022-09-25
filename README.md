@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<div>📚 tech stack</div>
+<div><span style="font-size:70">📚 tech stack</span></div>
 
 <p align="center"><img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"></p>
   
