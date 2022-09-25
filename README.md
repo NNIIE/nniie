@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome&fontSize=70)
 
 - 🔭 Backend Developer
-- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Velog&logoColor=white">
+- <img src="https://img.shields.io/badge/Velog-#20C997?style=for-the-badge&logo=Velog&logoColor=white">
 - 👯 I’m looking to collaborate on ...
 <br>
 
