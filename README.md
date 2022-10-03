@@ -23,5 +23,5 @@ I study hard to become a good developer
 <p align="center"><img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></p>
 <div align=center><h2></h2></div>
   
-![NNIIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNIIE&show_icons=true&theme=radical)
+![NNIIE's GitHub stats](https://github-readme-stats.vercel.app/api?username=NNIIE&show_icons=true&theme=dracula)
 </div>
