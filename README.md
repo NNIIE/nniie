@@ -14,7 +14,7 @@ I study hard to become a good developer
 <div align=center><h1></h1></div>    
 </div>
 
-💻 TECH STACK
+TECH STACK
 <br>
 
 <p align="center"><img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=java&logoColor=white"/>  &nbsp; <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"></p>
