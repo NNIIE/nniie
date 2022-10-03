@@ -4,7 +4,7 @@
 😃 Me
 <br>
 
-Hi there 👋
+Hi there
 <br>
 I am a Backend Developer
 <br>
