@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align=center>
-😃 Me
+Me
 <br>
 
 Hi there
