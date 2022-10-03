@@ -1,9 +1,6 @@
 <div align="center">
 
 <div align=center>
-Me
-<br>
-
 Hi there
 <br>
 I am a Backend Developer
