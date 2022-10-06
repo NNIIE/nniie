@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align=center>
-Hi there
+Hi
 <br>
 I am a Backend Developer
 <br>
