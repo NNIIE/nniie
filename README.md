@@ -1,8 +1,6 @@
 <div align="center">
 
 <div align=center>
-Hi
-<br>
 I am a Backend Developer
 <br>
 I am working in Seoul, South Korea
