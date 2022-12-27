@@ -8,7 +8,7 @@ I am working in Seoul, South Korea
 I try hard to become a good developer
 <br>
 <br>
-Always think ***Why?***
+Always think Why?
   
 <div align=center><h1></h1></div>    
 </div>
