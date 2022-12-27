@@ -9,6 +9,8 @@ I try hard to become a good developer
 <br>
 <br>
 Always think Why?
+<br>
+Always think trade-off
   
 <div align=center><h1></h1></div>    
 </div>
