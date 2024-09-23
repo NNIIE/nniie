@@ -1,16 +1,7 @@
 <div align="center">
 
 <div align=center>
-I am a Backend Developer
-<br>
-I am working in Seoul, South Korea
-<br>
-I try hard to become a good developer
-<br>
-<br>
-Always think Why?
-<br>
-Always think trade-off
+NNIIE
   
 <div align=center><h1></h1></div>    
 </div>
